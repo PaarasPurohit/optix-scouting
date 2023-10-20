@@ -1,9 +1,9 @@
-title: Nighthawk-Pages
-description: "August 2023 to June 2024"
-owner_name: Tirth Thakkar
-github_username: Tirth-Thakkar
-github_repo: "Nighthawk-Pages"
-baseurl: "/Nighthawk-Pages"
+title: Optix Scouting
+description: Outreach regional scouting for Team Optix 3749
+owner_name: Paaras Purohit
+github_username: PaarasPurohit
+github_repo: "optix-scouting"
+baseurl: "/optix-scouting"
 remote_theme: jekyll/minima
 minima:
   social_links:
